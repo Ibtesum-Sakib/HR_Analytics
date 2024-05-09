@@ -20,7 +20,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Overall Analysis View
 
 <p align="center">
-    <img src='https://github.com/Ibtesum-Sakib/HR_Analytics/edit/main/HR_analytics.png' width="600">
+    <img src='https://github.com/Ibtesum-Sakib/HR_Analytics/blob/main/HR_analytics.png' width="600">
 </p>
 
 ## Learnt things from this Project 
